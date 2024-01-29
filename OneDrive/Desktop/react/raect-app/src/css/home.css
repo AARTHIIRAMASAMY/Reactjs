@@ -1,0 +1,19 @@
+input[type=text], input[type=password] {   
+    width: 40%;   
+    margin: 2px 0;  
+    padding: 11px 1px;   
+    display:inline-table;   
+    border: 2px solid green;   
+    box-sizing:content-box;   
+}  
+form {   
+    border: 1px solid green;
+    width: 40%;
+    align-content: center;
+    padding: 20px;
+    margin: auto;
+}   
+input[type=submit]{
+color:bisque;
+background-color:crimson;
+} 
